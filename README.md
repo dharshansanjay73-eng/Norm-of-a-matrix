@@ -12,17 +12,19 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 # Register No:
 # Developed By:
-# 1-Norm of a Matrix<img width="426" height="150" alt="image" src="https://github.com/user-attachments/assets/19d3a755-11cf-46c8-a1e1-2c6fa3352dbb" />
+# 1-Norm of a Matrix
+
+<img width="412" height="132" alt="image" src="https://github.com/user-attachments/assets/23d93637-a1da-4833-9864-8f433d8f489b" />
 
 
 
 
-# 2-Norm of a Matrix<img width="366" height="216" alt="image" src="https://github.com/user-attachments/assets/7b3af150-eac1-41e5-b68f-7f9dae5979c2" />
+# 2-Norm of a Matrix
 
 
 
 
-# Infinity Norm of a Matrix<img width="295" height="125" alt="image" src="https://github.com/user-attachments/assets/6f855302-6098-4bab-8dcf-63426b35755e" />
+# Infinity Norm of a Matrix
 
 
 
