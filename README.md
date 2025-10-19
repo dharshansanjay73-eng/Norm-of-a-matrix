@@ -26,6 +26,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 # Infinity Norm of a Matrix
+<img width="278" height="124" alt="image" src="https://github.com/user-attachments/assets/8df3d4c8-be68-485a-9d99-62161fba0249" />
 
 
 
