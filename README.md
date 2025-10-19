@@ -20,6 +20,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 # 2-Norm of a Matrix
+<img width="358" height="220" alt="image" src="https://github.com/user-attachments/assets/d18ff7e5-549f-4c0f-ac72-5ec572defd6e" />
 
 
 
